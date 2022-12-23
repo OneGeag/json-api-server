@@ -1,4 +1,4 @@
-module github.com/OneGeag/json-api-server
+module github.com/onegeag/json-api-server
 
 go 1.19
 
