@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/OneGeag/json-api-server/internal/data"
-	"github.com/OneGeag/json-api-server/internal/validator"
+	"github.com/onegeag/json-api-server/internal/data"
+	"github.com/onegeag/json-api-server/internal/validator"
 )
 
 func (app *application) createMovieHandler(w http.ResponseWriter, r *http.Request) {

@@ -10,8 +10,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/OneGeag/json-api-server/internal/data"
 	_ "github.com/lib/pq"
+	"github.com/onegeag/json-api-server/internal/data"
 )
 
 const version = "1.0.0"

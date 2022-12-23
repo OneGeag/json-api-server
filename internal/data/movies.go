@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/OneGeag/json-api-server/internal/validator"
 	"github.com/lib/pq"
+	"github.com/onegeag/json-api-server/internal/validator"
 )
 
 type Movie struct {
